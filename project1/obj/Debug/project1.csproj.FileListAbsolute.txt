@@ -1,0 +1,20 @@
+C:\Users\Nauman Anwar\Desktop\bluetooth files\project1\project1\bin\Debug\project1.exe.config
+C:\Users\Nauman Anwar\Desktop\bluetooth files\project1\project1\bin\Debug\project1.exe
+C:\Users\Nauman Anwar\Desktop\bluetooth files\project1\project1\bin\Debug\project1.pdb
+C:\Users\Nauman Anwar\Desktop\bluetooth files\project1\project1\obj\Debug\project1.csprojAssemblyReference.cache
+C:\Users\Nauman Anwar\Desktop\bluetooth files\project1\project1\obj\Debug\project1.Form1.resources
+C:\Users\Nauman Anwar\Desktop\bluetooth files\project1\project1\obj\Debug\project1.Properties.Resources.resources
+C:\Users\Nauman Anwar\Desktop\bluetooth files\project1\project1\obj\Debug\project1.csproj.GenerateResource.cache
+C:\Users\Nauman Anwar\Desktop\bluetooth files\project1\project1\obj\Debug\project1.csproj.CoreCompileInputs.cache
+C:\Users\Nauman Anwar\Desktop\bluetooth files\project1\project1\obj\Debug\project1.exe
+C:\Users\Nauman Anwar\Desktop\bluetooth files\project1\project1\obj\Debug\project1.pdb
+F:\projects\Fill-a-bucket\project1\bin\Debug\project1.exe.config
+F:\projects\Fill-a-bucket\project1\bin\Debug\project1.exe
+F:\projects\Fill-a-bucket\project1\bin\Debug\project1.pdb
+F:\projects\Fill-a-bucket\project1\obj\Debug\project1.csprojAssemblyReference.cache
+F:\projects\Fill-a-bucket\project1\obj\Debug\project1.Form1.resources
+F:\projects\Fill-a-bucket\project1\obj\Debug\project1.Properties.Resources.resources
+F:\projects\Fill-a-bucket\project1\obj\Debug\project1.csproj.GenerateResource.cache
+F:\projects\Fill-a-bucket\project1\obj\Debug\project1.csproj.CoreCompileInputs.cache
+F:\projects\Fill-a-bucket\project1\obj\Debug\project1.exe
+F:\projects\Fill-a-bucket\project1\obj\Debug\project1.pdb
